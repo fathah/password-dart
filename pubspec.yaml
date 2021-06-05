@@ -1,5 +1,5 @@
 name: password_dart
-version: 2.0.0
+version: 2.0.1
 description: A set of high-level APIs over PointyCastle to hash and verify passwords securely.
 homepage: https://github.com/fathah/password-dart
 environment:
