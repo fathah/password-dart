@@ -5,7 +5,7 @@
 Fork of [password](https://pub.dartlang.org/packages/password) with null safety
 
 A set of high-level APIs over [PointyCastle](https://pub.dartlang.org/packages/pointycastle) to hash and verify passwords securely.<br>
-Heavily inspired on [PHP's Password Hashing Functions](http://php.net/manual/en/ref.password.php).
+Heavily inspired on [PHP's Password Hashing Functions](https://php.net/manual/en/ref.password.php).
 
 
 
