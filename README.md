@@ -1,6 +1,6 @@
-# password
+# password_dart
 
-[![Pub Package](https://img.shields.io/pub/v/password.svg)](https://pub.dartlang.org/packages/password_dart)
+[![Pub Package](https://img.shields.io/badge/pub-2.0.0-brightgreen)](https://pub.dartlang.org/packages/password_dart)
 
 Fork of [password](https://pub.dartlang.org/packages/password) with null safety
 

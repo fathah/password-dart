@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:password_dart/password.dart';
+import 'package:password_dart/password_dart.dart';
 
 const password = 'password';
 const hash =
