@@ -1,4 +1,4 @@
-import 'package:password/password.dart';
+import 'package:password_dart/password.dart';
 
 void main() {
   final password = 'secret';
